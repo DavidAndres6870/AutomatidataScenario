@@ -1,5 +1,9 @@
-course 3/Activity-Template_-Course-3-PACE-strategy-document.docx
-course 3/Activity-Templates_-Executive-summaries-.pptx
+/course 3/*.pptx
+/course 3/*.docx
+/course 4/*.pptx
+/course 4/*.docx
+/*.pptx
+/*.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
