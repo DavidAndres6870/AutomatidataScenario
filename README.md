@@ -36,4 +36,24 @@ Exploratory data analysis is complete for the project. The New York City TLC wou
 *Conduct a hypothesis test using the New York City TLC dataset
 *Create an executive summary for the Automatidata data team before sharing the results with the client
 
+
+##Course 5 workplace scenarios
+
+**Project goal:**
+
+In this fictional scenario, the New York City Taxi and Limousine Commission (TLC) has approached the data consulting firm Automatidata to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride.
+
+**Scenario:**
+
+The relationship between fare amounts and payment type has been analyzed. The operations manager with New York City TLC is seeking more insight through regression modeling. The team’s next milestone is to run a regression model for taxi fares based on variables in the dataset.
+
+**Course 5 tasks:**
+
+* Compute descriptive statistics
+
+* Create a regression model from the New York City TLC dataset
+
+* Create an executive summary for the Automatidata data team before sharing the results with the client
+
 Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
+
