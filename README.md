@@ -20,7 +20,7 @@ The New York City TLC data is ready for exploratory data analysis (EDA) in Pytho
 - Build a dataframe for the New York City TLC project
 - Create an executive summary for Automatidata for a general audience of internal professionals
 
-##Course 4 workplace scenarios
+## Course 4 workplace scenarios
 
 Project goal:
 
@@ -37,7 +37,7 @@ Exploratory data analysis is complete for the project. The New York City TLC wou
 *Create an executive summary for the Automatidata data team before sharing the results with the client
 
 
-##Course 5 workplace scenarios
+## Course 5 workplace scenarios
 
 **Project goal:**
 
@@ -55,7 +55,7 @@ The relationship between fare amounts and payment type has been analyzed. The op
 
 * Create an executive summary for the Automatidata data team before sharing the results with the client
 
-##Course 6 workplace scenarios
+## Course 6 workplace scenarios
 
 Project goal:
 
