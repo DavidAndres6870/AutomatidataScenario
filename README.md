@@ -55,5 +55,29 @@ The relationship between fare amounts and payment type has been analyzed. The op
 
 * Create an executive summary for the Automatidata data team before sharing the results with the client
 
+##Course 6 workplace scenarios
+
+Project goal:
+
+In this fictional scenario, the New York City Taxi and Limousine Commission (TLC) has approached the data consulting firm Automatidata to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride.
+
+Background: 
+
+Since 1971, TLC has been regulating and overseeing the licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles.
+
+**Scenario:**
+
+New York City TLC stakeholders have been impressed with the data analytical work completed by the Automatidata team in this project. As a result, they have reached out once again for assistance in creating a machine learning model that can help predict whether or not a rider will be a generous tipper.
+
+**Course 6 tasks:**
+
+* To complete this task, you’ll need to:
+
+* Build a random forest model from the New York City TLC dataset
+
+* Create an executive summary for the Automatidata data team before sharing the results with the client
+
 Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. 
 
+
+https://www.nyc.gov/site/tlc/about/accessibility.page
